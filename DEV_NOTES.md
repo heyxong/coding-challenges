@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Updated CI cache strategy
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Updated license year
+- Added CONTRIBUTING.md stub
+- Checked for memory leaks in long-running path
