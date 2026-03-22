@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Added CONTRIBUTING.md stub
 - Checked for memory leaks in long-running path
+
+## 2026-03-23
+- Updated .gitignore to exclude build artifacts
+- Fixed minor edge case in input handling
+- Added inline documentation for core functions
